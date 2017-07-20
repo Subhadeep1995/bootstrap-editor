@@ -1,0 +1,9 @@
+.wrapper{
+  margin: 0 auto;
+  width: 700px;
+}
+
+textarea{
+  margin-top: 20px;
+  width: 700px  ;
+}
